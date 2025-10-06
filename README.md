@@ -28,7 +28,7 @@ Deploying the Student Services Platform is now a simple, step-by-step process.
 First, clone this repository to your server:
 
 ```bash
-git clone https://github.com/your-username/student-services-platform.git
+git clone [https://github.com/your-username/student-services-platform.git](https://github.com/bu6wer8/student-services_V3.git)
 cd student-services-platform
 ```
 
